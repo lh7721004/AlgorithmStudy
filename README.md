@@ -1,7 +1,6 @@
 # Algorithm Study👨🏻‍💻
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=lh7721004)](https://solved.ac/lh7721004)
----
 ## 📅 스터디 일정
 
 > **월, 화, 수, 금 21:30 ~ 23:00**
